@@ -1,0 +1,8 @@
+Output:
+
+Enter 5 marks: 74 84 39 85 95
+Marks (index):   74 84 39 85 95 
+Marks (pointer):   74 84 39 85 95 
+Average before bump: 75.4
+Lowest mark was 39 -> bumped to 41
+Average after bump:  75.8

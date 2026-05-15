@@ -1,0 +1,26 @@
+1. Preprocessing Error Message:
+"hello.cpp:1:10: fatal error: 'iostreams' file not found
+    1 | #include <iostreams>
+      |          ^~~~~~~~~~~
+1 error generated."
+
+The stage that produced the error is the preprocessor stage.
+
+
+2. Compile Error Message:
+"hello.cpp:7:54: error: expected ';' after expression
+    7 |     std::cout << "I am ready for OOP345" << std::endl
+      |                                                      ^
+      |                                                      ;
+1 error generated."
+
+The stage that produced this error is the compilation error. 
+
+3. Link Error Message:
+"Undefined symbols for architecture arm64:
+  "_main", referenced from:
+      <initial-undefines>
+ld: symbol(s) not found for architecture arm64
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)"
+
+The stage that produced this error is the linker stage.

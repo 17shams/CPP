@@ -1,0 +1,14 @@
+Error Message: 
+"In file included from main.cpp:3:
+./converter.h:4:8: error: redefinition of 'Test'
+struct Test {
+       ^
+In file included from main.cpp:2:
+./converter.h:4:8: note: previous definition is here
+struct Test {
+       ^
+1 error generated."
+
+The include guard prevented the header file from being processed more than once in the same source file, avoiding redefinition errors.
+
+

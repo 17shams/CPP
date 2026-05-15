@@ -1,0 +1,12 @@
+Name:            <Shamar Harmon>
+Student ID:      <126746239>
+Section:         V1A   (Class Nbr 1264)
+Date submitted:  <2026-05-15>
+ 
+I declare that this submission is entirely my own original work.
+I have not copied code from another student, the internet,
+or any generative-AI tool, and I have read the academic-integrity
+policy linked in the course addendum.
+ 
+Signed: Shamar Harmon 
+
