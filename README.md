@@ -1,4 +1,5 @@
-# CPP — C++ Programming at Seneca Polytechnic
+# CPP
+# C++ Programming at Seneca Polytechnic
 **Student: Shamar Harmon | **ID:** <126746239>
 
 ---
