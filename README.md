@@ -13,7 +13,7 @@ This repository contains all coursework completed in C++ at Seneca Polytechnic, 
 
 ```
 CPP/
-├── OOP244/          # Object-Oriented Programming 1
+├── OOP244/          
 │   ├── W0/
 │   ├── W1/
 │   ├── W2/
@@ -24,7 +24,7 @@ CPP/
 │   ├── W9/
 │   ├── W10/
 │   └── PROJECT/
-├── OOP345/          # Object-Oriented Programming 2
+├── OOP345/         
 │   ├── SUMMER/
 │   ├── LECTURE/
 │   ├── WORD/
