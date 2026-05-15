@@ -1,5 +1,5 @@
 # OOP244
-# OOP244 — Introduction to Object-Oriented Programming
+# Introduction to Object-Oriented Programming
 **Seneca Polytechnic | Section V1A (Class Nbr 1264)**  
 **Student: Shamar | **ID:** <126746239>
 
