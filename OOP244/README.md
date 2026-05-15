@@ -1,7 +1,5 @@
 # OOP244
 # Introduction to Object-Oriented Programming
-**Seneca Polytechnic | Section V1A (Class Nbr 1264)**  
-**Student: Shamar | **ID:** <126746239>
 
 ---
 
@@ -30,10 +28,9 @@ OOP244/
     ├── MS4/     # Milestone 4 — Ordering System
     └── MS5/     # Milestone 5 — Final Integration
 ```
-
 ---
 
-## 🛠️ Topics Covered
+## Topics Covered
 
 - **C-Strings & I/O** — manual string handling, cin/cout
 - **Dynamic Memory** — `new`/`delete`, heap vs stack
@@ -47,4 +44,4 @@ OOP244/
 ---
 
 *Seneca Polytechnic — School of Software Design & Data Science*  
-*OOP244 | 2024–2025*
+*OOP244 | 2025 – Present*
