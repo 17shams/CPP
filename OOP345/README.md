@@ -13,7 +13,7 @@ Advanced C++ course covering templates, the STL, polymorphism, operator overload
 
 ```
 OOP345/
-├── SUMMER/      # Lab exercises
+├── LABS/      # Lab exercises
 ├── LECTURE/     # Lecture materials
 ├── WORD/        # Word documents & lab sheets
 └── SUBMISSION/  # Submitted deliverables
