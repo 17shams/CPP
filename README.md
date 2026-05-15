@@ -1,5 +1,5 @@
 # OOP
-# OOP345 — Object-Oriented Programming Using C++
+# Object-Oriented Programming Using C++
 **Seneca Polytechnic | Section V1A (Class Nbr 1264)**  
 **Student:** <Shamar Harmon> | **Student ID:** <126746239>
 
